@@ -1,0 +1,22 @@
+{
+    "profiles" : [
+        {
+            "id": 1,
+            "imageurl" : "./resources/images/image1.jpg",
+            "title": "Author 1",
+            "description": "This is some demo text you can give any text in here"
+        },
+        {
+            "id": 2,
+            "imageurl" : "./resources/images/image2.jpg",
+            "title": "Author 2",
+            "description": "This is some demo text you can give any text in here"
+        },
+        {
+            "id": 3,
+            "imageurl" : "./resources/images/image3.jpg",
+            "title": "Author 3",
+            "description": "This is some demo text you can give any text in here"
+        }       
+    ]
+}
